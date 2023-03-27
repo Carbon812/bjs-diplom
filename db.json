@@ -6,10 +6,10 @@
       "password": "demo",
       "id": 1,
       "balance": {
-        "RUB": 1000,
-        "USD": 20,
-        "EUR": 20,
-        "NTC": 3000
+        "RUB": 936,
+        "USD": 27,
+        "EUR": 76.36344781131729,
+        "NTC": 3023.203012773227
       }
     },
     {
@@ -19,9 +19,9 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 30,
         "USD": 0,
-        "EUR": 0,
+        "EUR": 3,
         "NTC": 100
       }
     },
@@ -33,7 +33,7 @@
       "balance": {
         "RUB": 20000,
         "USD": 300,
-        "EUR": 500,
+        "EUR": 610,
         "NTC": 50000
       }
     },
@@ -60,6 +60,42 @@
         "EUR": 600,
         "NTC": 90000
       }
+    },
+    {
+      "created_at": "2023-03-18T18:19:42.518Z",
+      "login": "olya@demo.ru",
+      "password": "demo1",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-03-18T18:20:43.827Z",
+      "login": "alexey",
+      "password": "demo2",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-03-25T12:51:47.361Z",
+      "login": "iva632927@ya.ru",
+      "password": "iva",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 3,
+        "EUR": 981,
+        "NTC": 0
+      }
     }
   ],
   "favorites": {
@@ -78,6 +114,9 @@
       "1": "Важный пацан",
       "3": "Дедуля",
       "4": "Галя"
+    },
+    "8": {
+      "1": "oleg@demo.ru"
     }
   }
 }
